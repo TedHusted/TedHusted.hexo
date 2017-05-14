@@ -2,7 +2,7 @@
 title: Building Struts 2 Apps without XML GlueCode
 id: 140
 categories:
-  - Tutorials
+  - Tutorial
 date: 2008-01-08 06:00:00
 tags:
 - Web Development

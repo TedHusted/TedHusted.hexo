@@ -2,7 +2,7 @@
 title: Who let the dogs out?
 id: 217
 categories:
-  - Essays
+  - Essay
 date: 2006-05-21 05:00:00
 tags:
  - ASF

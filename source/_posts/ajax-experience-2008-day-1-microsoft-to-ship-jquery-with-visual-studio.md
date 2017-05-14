@@ -2,7 +2,7 @@
 title: Ajax Experience 2008, Day 1, Microsoft to ship jQuery with Visual Studio
 id: 128
 categories:
-  - Events
+  - Event
 date: 2008-09-29 15:30:00
 tags: 
  - Ajax

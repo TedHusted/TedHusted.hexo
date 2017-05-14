@@ -2,7 +2,7 @@
 title: 'Ajax: The usual suspects'
 id: 192
 categories:
-  - Reviews
+  - Review
 date: 2007-03-19 05:00:00
 tags: 
  - Ajax

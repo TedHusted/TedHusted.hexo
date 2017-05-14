@@ -2,7 +2,7 @@
 title: FrSIRT Alert does NOT apply to Struts 1.x !!!
 id: 144
 categories:
-  - Events
+  - Event
 date: 2007-09-05 05:01:00
 tags:
  - Apache Struts

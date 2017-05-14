@@ -2,7 +2,7 @@
 title: ApacheCon US 2007 Early Bird Price Extended!
 id: 143
 categories:
-  - Events
+  - Event
 date: 2007-09-06 05:00:00
 tags: 
  - ASF

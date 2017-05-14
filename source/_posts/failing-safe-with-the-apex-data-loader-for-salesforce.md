@@ -2,7 +2,7 @@
 title: Failing safe with the Apex Data Loader for Salesforce
 id: 34
 categories:
-  - Tutorials
+  - Tutorial
 date: 2012-04-07 09:00:00
 tags:
  - Salesforce

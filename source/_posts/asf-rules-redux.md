@@ -2,7 +2,7 @@
 title: ASF Rules Redux
 id: 183
 categories:
-  - Essays
+  - Essay
 date: 2007-03-28 05:00:00
 tags: 
   - ASF

@@ -2,7 +2,7 @@
 title: Struts Action Friends 1.3.0 available
 id: 230
 categories:
-  - Reviews
+  - Review
 date: 2006-02-19 06:03:00
 tags:
  - Apache Struts

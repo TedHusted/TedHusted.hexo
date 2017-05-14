@@ -2,7 +2,7 @@
 title: FOSSCon Recap
 id: 87
 categories:
-  - Events
+  - Event
 date: 2010-07-06 05:00:00
 tags:
  - Open Source

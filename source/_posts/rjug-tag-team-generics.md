@@ -2,7 +2,7 @@
 title: 'RJUG: Tag-team Generics'
 id: 233
 categories:
-  - Events
+  - Event
 date: 2006-02-19 06:00:00
 tags:
  - Rochester NY

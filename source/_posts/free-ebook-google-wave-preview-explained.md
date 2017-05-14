@@ -2,7 +2,7 @@
 title: Free eBook - Google Wave (Preview) Explained
 id: 90
 categories:
-  - Reviews
+  - Review
 date: 2009-11-30 19:05:00
 tags:
  - Google Wave

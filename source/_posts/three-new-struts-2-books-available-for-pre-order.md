@@ -2,7 +2,7 @@
 title: Three new Struts 2 books available for pre-order
 id: 145
 categories:
-  - Reviews
+  - Review
 date: 2007-09-05 05:00:00
 tags:
  - Apache Struts

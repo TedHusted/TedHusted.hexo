@@ -2,7 +2,7 @@
 title: 'YUI Version 2.2.2: Bug-Fix Release'
 id: 18
 categories:
-  - Reviews
+  - Review
 date: 2007-04-19 08:00:17
 tags:
  - YUI

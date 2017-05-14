@@ -2,7 +2,7 @@
 title: '@Twitter: Too Much and Not Enough ...'
 id: 97
 categories:
-  - Essays
+  - Essay
 date: 2009-04-01 06:00:00
 tags:
  - Satire

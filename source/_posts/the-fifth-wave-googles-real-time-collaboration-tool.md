@@ -2,7 +2,7 @@
 title: 'The Fifth Wave: Google''s Real-Time Collaboration Tool ...'
 id: 94
 categories:
-  - Reviews
+  - Review
 date: 2009-07-07 06:00:00
 tags:
  - Google Wave

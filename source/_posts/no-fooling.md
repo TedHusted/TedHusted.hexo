@@ -2,7 +2,7 @@
 title: No Fooling
 id: 252
 categories:
-  - Events
+  - Event
 date: 2003-04-04 10:51:00
 tags:
  - Apache Struts

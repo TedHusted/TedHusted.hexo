@@ -2,7 +2,7 @@
 title: S2 Tip - Use global result handlers for common results
 id: 15
 categories:
- - Tutorials
+ - Tutorial
 date: 2007-04-16 08:00:04
 tags:
   - Apache Struts

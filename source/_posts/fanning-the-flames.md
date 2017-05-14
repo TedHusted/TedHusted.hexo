@@ -2,7 +2,7 @@
 title: Fanning the Flames
 id: 253
 categories:
-  - Events
+  - Event
 date: 2003-04-03 07:46:00
 tags:
  - Apache Struts

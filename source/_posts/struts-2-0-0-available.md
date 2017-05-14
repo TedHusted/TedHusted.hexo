@@ -2,7 +2,7 @@
 title: Struts 2.0.0 Available
 id: 212
 categories:
-  - Events
+  - Event
 date: 2006-09-27 05:00:00
 tags:
  - Apache Struts

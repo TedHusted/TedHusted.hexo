@@ -2,7 +2,7 @@
 title: ASF Commits 1,000,000
 id: 67
 categories:
-  - Events
+  - Event
 date: 2010-09-22 06:55:00
 tags: 
  - ASF

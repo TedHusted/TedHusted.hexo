@@ -2,7 +2,7 @@
 title: YUI Test - The New Kid on Block
 id: 130
 categories:
-  - Reviews
+  - Review
 date: 2008-09-23 05:00:00
 tags:
  - YUI

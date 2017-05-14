@@ -2,7 +2,7 @@
 title: Ajax Experience 2008 - More Ted, 'nuff said
 id: 134
 categories:
-  - Events
+  - Event
 date: 2008-07-22 05:00:00
 tags: 
  - Ajax 

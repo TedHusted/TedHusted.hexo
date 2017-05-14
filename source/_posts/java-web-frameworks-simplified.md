@@ -2,7 +2,7 @@
 title: Java Web Frameworks - Simplified!
 id: 210
 categories:
-  - Reviews
+  - Review
 date: 2006-11-16 06:00:00
 tags:
  - Programming

@@ -2,7 +2,7 @@
 title: NYC Java OpenSource Conference
 id: 251
 categories:
-  - Events
+  - Event
 date: 2004-04-03 06:00:00
 tags:
  - Programming

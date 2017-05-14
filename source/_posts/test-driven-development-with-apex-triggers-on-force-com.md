@@ -2,7 +2,7 @@
 title: Test Driven Development with Apex Triggers on Force.com
 id: 48
 categories:
-  - Reviews
+  - Review
 date: 2012-03-05 06:00:00
 tags:
  - Force.com

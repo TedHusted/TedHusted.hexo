@@ -2,7 +2,7 @@
 title: Getting Started with Professional Ajax
 id: 206
 categories:
-  - Reviews
+  - Review
 date: 2007-03-05 06:00:00
 tags:
  - Ajax

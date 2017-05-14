@@ -2,7 +2,7 @@
 title: WebWork 2.2 - What's in it for me?
 id: 236
 categories:
-  - Essays
+  - Essay
 date: 2006-02-12 06:00:00
 tags:
  - Apache Struts

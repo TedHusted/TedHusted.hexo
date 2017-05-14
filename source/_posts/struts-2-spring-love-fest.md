@@ -2,7 +2,7 @@
 title: 'Struts 2: Spring Love Fest!'
 id: 214
 categories:
-  - Tutorials
+  - Tutorial
 date: 2006-09-06 05:00:00
 tags:
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Profiling the Four Quadrants of Highly Effective Toltecs
 id: 112
 categories:
-  - Essays
+  - Essay
 date: 2008-11-25 06:00:00
 tags:
  - Productivity

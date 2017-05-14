@@ -2,7 +2,7 @@
 title: 'View Me First: The Crockford Clips'
 id: 205
 categories:
-  - Reviews
+  - Review
 date: 2007-03-06 06:00:00
 tags:
  - Ajax

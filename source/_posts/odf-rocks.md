@@ -2,7 +2,7 @@
 title: ODF Rocks
 id: 245
 categories:
-  - Reviews
+  - Review
 date: 2006-01-27 06:04:00
 tags:
  - Apache Roller

@@ -2,7 +2,7 @@
 title: Ready to give back? Help sponsor ApacheCon!
 id: 14
 categories:
-  - Events
+  - Event
 date: 2007-04-13 08:01:55
 tags:
  - ASF

@@ -2,7 +2,7 @@
 title: How do you spell Community?
 id: 218
 categories:
-  - Essays
+  - Essay
 date: 2006-05-14 05:00:00
 tags:
  - Open Source

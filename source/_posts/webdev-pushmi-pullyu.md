@@ -2,7 +2,7 @@
 title: WebDev Pushmi-Pullyu
 id: 204
 categories:
-  - Essays
+  - Essay
 date: 2007-03-07 06:00:00
 tags:
  - Apache Struts

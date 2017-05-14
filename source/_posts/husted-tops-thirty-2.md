@@ -2,7 +2,7 @@
 title: Struts 2.0.9 General Availability Release with Important Security Fix
 id: 151
 categories:
-  - Events
+  - Event
 date: 2007-07-24 05:00:00
 tags:
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Workgroup Sites - Part 3 -Windows Live Office Groups
 id: 72
 categories:
-  - Reviews
+  - Review
 date: 2010-09-18 10:55:00
 tags:
  - Productivity

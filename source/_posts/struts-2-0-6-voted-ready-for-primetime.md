@@ -2,7 +2,7 @@
 title: Struts 2.0.6 Voted Ready for Primetime
 id: 209
 categories:
-  - Events
+  - Event
 date: 2007-03-02 06:00:00
 tags:
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Struts 2.0.8 GA release available
 id: 154
 categories:
-  - Events
+  - Event
 date: 2007-06-13 05:00:00
 tags:
  - Apache Struts

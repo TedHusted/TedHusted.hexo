@@ -2,7 +2,7 @@
 title: Where the source?
 id: 202
 categories:
-  - Events
+  - Event
 date: 2007-03-09 06:00:00
 tags:
  - Apache Struts

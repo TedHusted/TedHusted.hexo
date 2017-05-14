@@ -2,7 +2,7 @@
 title: S2 Tips - Try to keep the Action classes for the namespace in a common Java package
 id: 8
 categories:
- - Tutorials
+ - Tutorial
 date: 2007-04-12 08:00:15
 tags:
   - Apache Struts

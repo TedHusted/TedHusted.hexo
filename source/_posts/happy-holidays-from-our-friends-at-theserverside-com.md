@@ -2,7 +2,7 @@
 title: Happy Holidays from our friends at TheServerSide.com
 id: 141
 categories:
- - Events
+ - Event
 date: 2007-12-24 06:00:00
 tags:
  - Ajax

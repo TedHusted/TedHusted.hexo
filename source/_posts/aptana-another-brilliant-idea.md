@@ -2,7 +2,7 @@
 title: 'Aptana: Another brilliant IDEA'
 id: 180
 categories:
-  - Reviews
+  - Review
 date: 2007-03-31 05:00:00
 tags: 
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Scripting Sails
 id: 244
 categories:
-  - Events
+  - Event
 date: 2006-01-27 06:05:00
 tags:
  - Apache Struts

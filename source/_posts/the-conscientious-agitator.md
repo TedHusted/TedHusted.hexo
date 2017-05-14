@@ -2,7 +2,7 @@
 title: The Conscientious Agitator
 id: 239
 categories:
-  - Reviews
+  - Review
 date: 2006-02-06 06:00:00
 tags:
  - Programming

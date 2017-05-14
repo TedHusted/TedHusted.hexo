@@ -4,7 +4,7 @@ title: >-
   or Java package
 id: 10
 categories:
- - Tutorials
+ - Tutorial
 date: 2007-04-15 08:00:37
 tags:
   - Apache Struts

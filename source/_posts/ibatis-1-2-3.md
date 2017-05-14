@@ -2,7 +2,7 @@
 title: iBATIS 1-2-3
 id: 234
 categories:
-  - Events
+  - Event
 date: 2006-02-12 06:02:00
 tags:
  - Programming

@@ -2,7 +2,7 @@
 title: 'GoogleCode: What''s the diff?'
 id: 197
 categories:
-  - Reviews
+  - Review
 date: 2007-03-14 05:00:00
 tags:
  - Programming

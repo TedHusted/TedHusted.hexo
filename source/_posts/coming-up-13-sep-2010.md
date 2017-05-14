@@ -2,7 +2,7 @@
 title: Coming Up 13 Sep 2010
 id: 76
 categories:
-  - Events
+  - Event
 date: 2010-09-13 10:55:00
 tags:
  - Rochester NY

@@ -2,7 +2,7 @@
 title: Struts Downloads Skyrocket in 2007
 id: 152
 categories:
-  - Events
+  - Event
 date: 2007-07-07 05:00:00
 tags:
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Stepping Up to Google Apps
 id: 109
 categories:
-  - Reviews
+  - Review
 date: 2008-12-23 06:00:00
 tags:
  - Google Apps

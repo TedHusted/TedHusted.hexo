@@ -2,7 +2,7 @@
 title: 'Looking Forward, Looking Back'
 id: 216
 categories:
-  - Essays
+  - Essay
 date: 2006-05-28 05:00:00
 tags:
  - Apache Struts

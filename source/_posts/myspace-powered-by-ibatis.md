@@ -2,7 +2,7 @@
 title: MySpace - Powered by iBATIS
 id: 221
 categories:
-  - Events
+  - Event
 date: 2006-04-02 05:00:00
 tags:
  - Programming

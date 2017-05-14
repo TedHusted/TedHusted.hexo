@@ -2,7 +2,7 @@
 title: IIBA 2010/2011 Kickoff Meeting
 id: 86
 categories:
-  - Events
+  - Event
 date: 2010-09-02 00:20:00
 tags:
  - IIBA Rochester

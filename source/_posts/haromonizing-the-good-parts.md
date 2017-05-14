@@ -2,7 +2,7 @@
 title: Haromonizing the Good Parts
 id: 133
 categories:
-  - Reviews
+  - Review
 date: 2008-09-16 05:00:00
 tags:
  - Programming

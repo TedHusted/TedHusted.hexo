@@ -2,7 +2,7 @@
 title: S2 Tip - Use namespaces to organize your application into logical modules
 id: 188
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-23 05:00:00
 tags:
   - Apache Struts

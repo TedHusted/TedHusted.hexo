@@ -2,7 +2,7 @@
 title: Tour de Blog - WordPress
 id: 5
 categories:
-  - Reviews
+  - Review
 date: 2007-04-09 11:00:07
 tags:
  - Productivity

@@ -2,7 +2,7 @@
 title: CheckStyle Woes
 id: 242
 categories:
-  - Events
+  - Event
 date: 2006-01-27 06:07:00
 tags:
  - Apache Struts

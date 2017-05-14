@@ -2,7 +2,7 @@
 title: DataSource Blues
 id: 255
 categories:
-  - Reviews
+  - Review
 date: 2003-04-01 08:03:00
 tags:
  - Apache Struts

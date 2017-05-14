@@ -2,7 +2,7 @@
 title: Call for Papers Opens for ApacheCon US 2007
 id: 16
 categories:
-  - Events
+  - Event
 date: 2007-04-17 08:00:08
 tags:
  - ASF

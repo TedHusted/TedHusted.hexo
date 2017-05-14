@@ -2,7 +2,7 @@
 title: 'Google Wave Preview: Seven things to improve about you ...'
 id: 91
 categories:
-  - Reviews
+  - Review
 date: 2009-08-07 06:00:00
 tags:
  - Programming

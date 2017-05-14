@@ -2,7 +2,7 @@
 title: Incremental Refactoring
 id: 196
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-15 05:00:00
 tags:
  - Programming

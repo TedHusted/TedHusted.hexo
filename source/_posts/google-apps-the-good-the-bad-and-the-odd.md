@@ -2,7 +2,7 @@
 title: 'Google Apps - The Good, the Bad, and the Odd'
 id: 106
 categories:
-  - Reviews
+  - Review
 date: 2008-12-30 06:00:00
 tags:
  - Google Apps

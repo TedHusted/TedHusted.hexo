@@ -2,7 +2,7 @@
 title: Hacking the Cathedral
 id: 182
 categories:
-  - Reviews
+  - Review
 date: 2007-03-29 05:00:00
 tags:
  - YUI

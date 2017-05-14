@@ -2,7 +2,7 @@
 title: Apache Struts Tops OpenLogic's Open Source Leaders List with a 71% Share
 id: 137
 categories:
-  - Events
+  - Event
 date: 2008-01-25 06:00:00
 tags: 
  - Apache Struts

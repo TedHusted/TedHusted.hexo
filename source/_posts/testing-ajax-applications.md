@@ -2,7 +2,7 @@
 title: 'Testing: Ajax Applications'
 id: 120
 categories:
-  - Reviews
+  - Review
 date: 2008-11-05 06:00:00
 tags:
  - Ajax

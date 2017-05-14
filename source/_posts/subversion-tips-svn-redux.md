@@ -2,7 +2,7 @@
 title: Subversion Tips - SVN Redux
 id: 191
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-20 05:00:00
 tags:
  - Programming

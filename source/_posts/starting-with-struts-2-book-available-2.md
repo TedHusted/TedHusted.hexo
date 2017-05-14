@@ -2,7 +2,7 @@
 title: Starting with Struts 2 Book Available
 id: 25
 categories:
- - Reviews
+ - Review
 date: 2007-05-27 06:00:17
 tags:
   - Apache Struts

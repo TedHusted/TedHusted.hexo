@@ -2,7 +2,7 @@
 title: To Tweet or Not to Tweet ...
 id: 96
 categories:
-  - Events
+  - Event
 date: 2009-04-02 21:30:00
 tags:
  - Social Media

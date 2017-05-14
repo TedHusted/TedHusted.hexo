@@ -2,7 +2,7 @@
 title: 'Public Course: Migrating to Struts Action 2'
 id: 215
 categories:
-  - Events
+  - Event
 date: 2006-06-20 05:00:00
 tags:
  - Apache Struts

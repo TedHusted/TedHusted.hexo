@@ -2,7 +2,7 @@
 title: 'Catch me on the flip-side: Responding to Outbound Messages in Salesforce CRM'
 id: 39
 categories:
-  - Tutorials
+  - Tutorial
 date: 2012-03-29 05:00:00
 tags:
  - Salesforce

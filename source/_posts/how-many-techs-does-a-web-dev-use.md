@@ -2,7 +2,7 @@
 title: How many techs does a web dev use?
 id: 21
 categories:
-  - Essays
+  - Essay
 date: 2007-04-22 08:00:10
 tags:
  - Programming

@@ -2,7 +2,7 @@
 title: 'What to Do if Your Code Has Few, If Any Tests?'
 id: 219
 categories:
-  - Events
+  - Event
 date: 2006-04-24 05:00:00
 tags:
  - Programming

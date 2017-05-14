@@ -2,7 +2,7 @@
 title: Google Code Successively Refines
 id: 176
 categories:
-  - Events
+  - Event
 date: 2007-04-04 05:00:00
 tags:
 - Google Code

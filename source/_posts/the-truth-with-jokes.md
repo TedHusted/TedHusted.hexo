@@ -2,7 +2,7 @@
 title: The Truth with Jokes
 id: 223
 categories:
-  - Essays
+  - Essay
 date: 2006-04-01 06:00:00
 tags:
  - Apache Struts

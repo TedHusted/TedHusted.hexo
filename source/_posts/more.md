@@ -2,7 +2,7 @@
 title: But, wait there's more ...
 id: 1
 categories:
- - Events
+ - Event
 date: 2007-04-08 08:59:52
 tags:
  - Productivity

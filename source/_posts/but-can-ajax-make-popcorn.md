@@ -2,7 +2,7 @@
 title: But can Ajax make popcorn?
 id: 194
 categories:
-  - Reviews
+  - Review
 date: 2007-03-17 05:00:00
 tags:
  - Ajax

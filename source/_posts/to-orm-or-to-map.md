@@ -2,7 +2,7 @@
 title: To ORM or to Map?
 id: 249
 categories:
-  - Essays
+  - Essay
 date: 2004-04-25 05:00:00
 tags:
  - Programming

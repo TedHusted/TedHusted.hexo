@@ -2,7 +2,7 @@
 title: iCustomizations
 id: 75
 categories:
-  - Reviews
+  - Review
 date: 2010-09-14 22:55:00
 tags:
  - Programming

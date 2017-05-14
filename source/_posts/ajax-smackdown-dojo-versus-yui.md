@@ -2,7 +2,7 @@
 title: 'Ajax Smackdown: Dojo versus YUI!'
 id: 173
 categories:
-  - Events
+  - Event
 date: 2007-04-07 05:00:00
 tags: 
  - Ajax

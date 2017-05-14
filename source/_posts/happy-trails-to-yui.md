@@ -2,7 +2,7 @@
 title: Happy Trails to YUI
 id: 201
 categories:
-  - Reviews
+  - Review
 date: 2007-03-10 06:00:00
 tags:
  - Programming

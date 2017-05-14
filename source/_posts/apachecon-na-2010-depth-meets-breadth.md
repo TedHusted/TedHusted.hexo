@@ -2,7 +2,7 @@
 title: ApacheCon NA 2010 - depth meets breadth
 id: 83
 categories:
-  - Events
+  - Event
 date: 2010-09-06 10:55:00
 tags: 
  - ASF

@@ -2,7 +2,7 @@
 title: Easy start page for WebWork docs
 id: 228
 categories:
-  - Reviews
+  - Review
 date: 2006-02-26 06:01:00
 tags:
  - Apache Struts

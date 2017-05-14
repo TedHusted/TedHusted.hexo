@@ -2,7 +2,7 @@
 title: 'Nonprofit Technology Conference 2011: Session Proposal Voting is Now Open!'
 id: 74
 categories:
-  - Events
+  - Event
 date: 2010-09-15 20:55:00
 tags:
  - Programming

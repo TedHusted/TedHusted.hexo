@@ -2,7 +2,7 @@
 title: Keep UI discussions on target with FireShot
 id: 82
 categories:
-  - Reviews
+  - Review
 date: 2010-09-07 10:55:00
 tags:
  - Business Analysis

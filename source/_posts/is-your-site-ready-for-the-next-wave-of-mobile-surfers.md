@@ -2,7 +2,7 @@
 title: Is your site ready for the next wave of mobile surfers?
 id: 84
 categories:
-  - Essays
+  - Essay
 date: 2010-09-03 10:55:00
 tags:
  - Business Analysis

@@ -2,7 +2,7 @@
 title: The Internet is the computer
 id: 203
 categories:
-  - Essays
+  - Essay
 date: 2007-03-08 19:48:00
 tags:
  - Google Apps

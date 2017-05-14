@@ -2,7 +2,7 @@
 title: S2 Tip - Place each namespace into its own Struts configuration file
 id: 181
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-30 05:00:00
 tags:
  - Apache Struts

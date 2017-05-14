@@ -2,7 +2,7 @@
 title: Husted Tops Thirty
 id: 149
 categories:
-  - Events
+  - Event
 date: 2007-07-27 05:00:00
 tags:
  - Apache Struts

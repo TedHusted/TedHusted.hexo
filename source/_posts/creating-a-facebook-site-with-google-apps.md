@@ -2,7 +2,7 @@
 title: Creating a Facebook Site with Google Apps
 id: 64
 categories:
-  - Tutorials
+  - Tutorial
 date: 2011-01-07 10:00:00
 tags:
  - Programming

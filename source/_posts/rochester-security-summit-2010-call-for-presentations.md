@@ -2,7 +2,7 @@
 title: Rochester Security Summit 2010 - Call for Presentations
 id: 88
 categories:
-  - Events
+  - Event
 date: 2010-05-04 05:19:00
 tags:
  - Rochester NY

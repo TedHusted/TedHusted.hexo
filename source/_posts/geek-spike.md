@@ -2,7 +2,7 @@
 title: Geek Spike
 id: 193
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-18 05:00:00
 tags:
  - Programming

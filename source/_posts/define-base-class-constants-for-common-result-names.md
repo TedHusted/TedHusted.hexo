@@ -2,7 +2,7 @@
 title: S2 Tip - Define base class constants for common Result names
 id: 19
 categories:
-  - Reviews
+  - Review
 date: 2007-04-20 08:00:15
 tags:
  - Apache Struts

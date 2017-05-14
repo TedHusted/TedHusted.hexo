@@ -2,7 +2,7 @@
 title: 'MVC Convergence: Mr Action meet Ms ASP.NET'
 id: 185
 categories:
-  - Reviews
+  - Review
 date: 2007-03-26 05:00:00
 tags:
  - Programming

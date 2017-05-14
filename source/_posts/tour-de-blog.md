@@ -2,7 +2,7 @@
 title: Tour de Blog
 id: 178
 categories:
-  - Reviews
+  - Review
 date: 2007-04-02 05:00:00
 tags:
  - Productivity

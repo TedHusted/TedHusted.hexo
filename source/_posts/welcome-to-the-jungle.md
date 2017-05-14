@@ -2,7 +2,7 @@
 title: Welcome to the Jungle
 id: 240
 categories:
-  - Events
+  - Event
 date: 2006-01-27 06:09:00
 tags:
  - Apache Struts

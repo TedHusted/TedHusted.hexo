@@ -2,7 +2,7 @@
 title: Managing a Related Object via a Checkbox in Salesforce CRM
 id: 47
 categories:
-  - Tutorials
+  - Tutorial
 date: 2012-03-06 06:00:00
 tags:
  - Salesforce

@@ -1,11 +1,9 @@
 ---
 title: Why do we call it Apache?
 id: 198
-categories:
-  - Essays
+categories: Essay
 date: 2007-03-13 05:00:00
-tags:
- - ASF
+tags: ASF
 ---
 
 Digging into the email archives we find ....

@@ -2,7 +2,7 @@
 title: 'Idealware: The Nonprofit Social Media Technology Decision Guide'
 id: 73
 categories:
-  - Reviews
+  - Review
 date: 2010-09-16 22:55:00
 tags:
  - Social Media

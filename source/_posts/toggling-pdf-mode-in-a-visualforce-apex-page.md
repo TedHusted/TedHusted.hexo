@@ -2,7 +2,7 @@
 title: Toggling PDF Mode In a Visualforce Apex Page
 id: 44
 categories:
-  - Tutorials
+  - Tutorial
 date: 2012-03-15 05:00:00
 tags:
  - Salesforce

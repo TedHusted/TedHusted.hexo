@@ -2,7 +2,7 @@
 title: Ted @ ApacheCon
 id: 53
 categories:
-  - Events
+  - Event
 date: 2011-11-04 15:22:00
 tags:
  - ASF

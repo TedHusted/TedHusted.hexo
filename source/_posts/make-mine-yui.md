@@ -2,7 +2,7 @@
 title: Make Mine YUI
 id: 207
 categories:
-  - Reviews
+  - Review
 date: 2007-03-04 06:00:00
 tags:
  - YUI

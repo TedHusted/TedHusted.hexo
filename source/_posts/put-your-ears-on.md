@@ -2,7 +2,7 @@
 title: Put your ears on
 id: 65
 categories:
-  - Reviews
+  - Review
 date: 2010-09-25 22:55:00
 tags:
  - Open Source

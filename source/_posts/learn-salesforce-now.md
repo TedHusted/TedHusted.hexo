@@ -2,7 +2,7 @@
 title: Learn. Salesforce. Now.
 id: 42
 categories:
-  - Reviews
+  - Review
 date: 2012-03-20 05:00:00
 tags:
  - Salesforce

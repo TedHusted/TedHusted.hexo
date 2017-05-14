@@ -2,7 +2,7 @@
 title: S2 Tip - Always set devMode to false in production
 id: 195
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-16 05:00:00
 tags:
   - Apache Struts

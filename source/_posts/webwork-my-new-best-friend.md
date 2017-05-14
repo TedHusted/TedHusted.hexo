@@ -2,7 +2,7 @@
 title: 'WebWork: My new best friend'
 id: 231
 categories:
-  - Events
+  - Event
 date: 2006-02-19 06:02:00
 tags:
  - Apache Struts

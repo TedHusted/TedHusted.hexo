@@ -2,7 +2,7 @@
 title: Action2 Cookbook is off the backburner
 id: 225
 categories:
-  - Reviews
+  - Review
 date: 2006-03-05 06:00:00
 tags: 
  - Apache Struts

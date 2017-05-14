@@ -2,7 +2,7 @@
 title: 'Struts from Square One: Part 1, Text Complete'
 id: 187
 categories:
-  - Reviews
+  - Review
 date: 2007-03-24 05:00:00
 tags:
  - Apache Struts

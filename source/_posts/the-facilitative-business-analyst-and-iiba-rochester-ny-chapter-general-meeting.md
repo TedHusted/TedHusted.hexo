@@ -4,7 +4,7 @@ title: >-
   Meeting
 id: 59
 categories:
-  - Events
+  - Event
 date: 2011-06-01 06:47:00
 tags:
  - IIBA Rochester

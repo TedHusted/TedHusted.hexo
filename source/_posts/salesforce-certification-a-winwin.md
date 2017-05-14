@@ -2,7 +2,7 @@
 title: Salesforce Certification - A Win/Win
 id: 46
 categories:
-  - Reviews
+  - Review
 date: 2012-03-12 05:00:00
 tags:
  - Salesforce

@@ -2,7 +2,7 @@
 title: S2 Tip - Maintain configuration files in a resource folder or Java package
 id: 9
 categories:
- - Tutorials
+ - Tutorial
 date: 2007-04-12 08:01:04
 tags:
   - Apache Struts

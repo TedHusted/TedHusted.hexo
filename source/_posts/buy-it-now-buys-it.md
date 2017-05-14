@@ -2,7 +2,7 @@
 title: Buy It Now Buys it
 id: 254
 categories:
-  - Events
+  - Event
 date: 2003-04-02 09:22:00
 tags:
  - Programming

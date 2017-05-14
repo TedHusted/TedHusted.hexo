@@ -2,7 +2,7 @@
 title: 'Sun Snaps Up Database Firm, MySQL'
 id: 139
 categories:
-  - Events
+  - Event
 date: 2008-01-17 06:00:00
 tags:
  - Open Source

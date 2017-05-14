@@ -1,11 +1,9 @@
 ---
 title: S2 Tip - Use Exception handlers
 id: 12
-categories:
-- Tutorials
+categories: Tutorial
 date: 2007-04-14 08:00:31
-tags:
- - Apache Struts
+tags: Apache Struts
 ---
 
 Since Action classes tend to access the same business layer, most Actions often need to catch the same set of exceptions. Rather than sprinkle Actions with  nearly identical try..catch blocks, configure an Exception handler to catch whatever exceptions an Action may throw.

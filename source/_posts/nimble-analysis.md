@@ -2,7 +2,7 @@
 title: Nimble Analysis
 id: 81
 categories:
-  - Reviews
+  - Review
 date: 2010-09-08 07:33:00
 tags:
  - Business Analysis

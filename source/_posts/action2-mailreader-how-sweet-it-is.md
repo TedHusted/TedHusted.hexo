@@ -2,7 +2,7 @@
 title: Action2 MailReader - How Sweet It Is
 id: 220
 categories:
-  - Reviews
+  - Review
 date: 2006-04-02 05:01:00
 tags: 
  - Apache Struts

@@ -2,7 +2,7 @@
 title: Social networking for membership organizations
 id: 70
 categories:
-  - Reviews
+  - Review
 date: 2010-09-21 10:55:00
 tags:
  - Social Media

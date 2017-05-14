@@ -2,7 +2,7 @@
 title: 13 ASF Practices
 id: 190
 categories:
-  - Essays
+  - Essay
 date: 2007-03-21 05:00:00
 tags: 
  - ASF

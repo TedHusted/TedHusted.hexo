@@ -2,7 +2,7 @@
 title: Salesforce User Group - Speed Demoing
 id: 55
 categories:
-  - Events
+  - Event
 date: 2011-06-10 06:33:00
 tags:
   - Salesforce

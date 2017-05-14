@@ -2,7 +2,7 @@
 title: Salesforce – Open Source Pioneer
 id: 36
 categories:
- - Essays
+ - Essay
 date: 2012-04-04 13:00:00
 tags:
   - Open Source

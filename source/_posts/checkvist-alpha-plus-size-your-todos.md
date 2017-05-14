@@ -2,7 +2,7 @@
 title: CheckVist Alpha - Plus-Size Your TODOs ...
 id: 102
 categories:
-  - Reviews
+  - Review
 date: 2009-02-06 06:00:00
 tags:
  - Productivity

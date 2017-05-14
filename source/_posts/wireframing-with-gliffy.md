@@ -2,7 +2,7 @@
 title: Wireframing with Gliffy ...
 id: 99
 categories:
-  - Reviews
+  - Review
 date: 2009-03-28 19:00:00
 tags:
  - Business Analysis

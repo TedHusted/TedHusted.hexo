@@ -2,7 +2,7 @@
 title: Strecks 1.0.1 released
 id: 153
 categories:
-  - Events
+  - Event
 date: 2007-06-14 05:00:00
 tags:
  - Apache Struts

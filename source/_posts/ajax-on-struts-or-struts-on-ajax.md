@@ -2,7 +2,7 @@
 title: Ajax on Struts or Struts on Ajax?
 id: 142
 categories:
-  - Events
+  - Event
 date: 2007-09-10 05:00:00
 tags: 
  - Ajax

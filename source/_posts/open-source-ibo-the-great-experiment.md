@@ -2,7 +2,7 @@
 title: 'Open Source iBO: The Great Experiment'
 id: 85
 categories:
-  - Essays
+  - Essay
 date: 2010-09-02 10:55:00
 tags:
  - Open Source

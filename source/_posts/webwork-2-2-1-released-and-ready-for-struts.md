@@ -2,7 +2,7 @@
 title: 'WebWork 2.2.1: Released and Ready for Struts!'
 id: 237
 categories:
-  - Events
+  - Event
 date: 2006-02-07 06:00:00
 tags:
  - Apache Struts

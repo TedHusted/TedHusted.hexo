@@ -2,7 +2,7 @@
 title: Roller 2.1 RC5
 id: 227
 categories:
-  - Events
+  - Event
 date: 2006-02-26 06:02:00
 tags:
  - Apache Roller

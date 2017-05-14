@@ -2,7 +2,7 @@
 title: Ajax Experience 2008, Day 3, At Your Service
 id: 125
 categories:
-  - Events
+  - Event
 date: 2008-10-02 19:30:00
 tags: 
  - Ajax

@@ -2,7 +2,7 @@
 title: All I want for Christmas is Offsite Backup
 id: 104
 categories:
-  - Reviews
+  - Review
 date: 2009-01-06 06:25:00
 tags: 
  - Home Office

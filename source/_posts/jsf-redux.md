@@ -2,7 +2,7 @@
 title: JSF Redux
 id: 148
 categories:
-  - Events
+  - Event
 date: 2007-07-31 14:33:00
 tags:
   - Programming

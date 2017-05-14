@@ -2,7 +2,7 @@
 title: Agitar Software
 id: 247
 categories:
-  - Reviews
+  - Review
 date: 2006-01-27 06:02:00
 tags: 
  - Apache Struts

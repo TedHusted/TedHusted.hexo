@@ -2,7 +2,7 @@
 title: Is Open Source a Freeforall?
 id: 20
 categories:
-  - Essays
+  - Essay
 date: 2007-04-21 10:00:13
 tags:
 - Open Source

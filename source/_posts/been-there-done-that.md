@@ -2,7 +2,7 @@
 title: 'Been there, done that'
 id: 199
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-03-12 05:00:00
 tags:
  - Productivity

@@ -2,7 +2,7 @@
 title: 'Tapestry: Rolling toward TLP'
 id: 235
 categories:
-  - Events
+  - Event
 date: 2006-02-12 06:01:00
 tags:
  - Apache Struts

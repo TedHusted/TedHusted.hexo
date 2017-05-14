@@ -2,7 +2,7 @@
 title: GoogleCode-a-Go-Go
 id: 208
 categories:
-  - Reviews
+  - Review
 date: 2007-03-03 06:00:00
 tags:
  - Google Code

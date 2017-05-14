@@ -2,7 +2,7 @@
 title: 'Java Web Frameworks: Order from Chaos'
 id: 200
 categories:
-  - Reviews
+  - Review
 date: 2007-03-11 05:00:00
 tags:
  - Ajax

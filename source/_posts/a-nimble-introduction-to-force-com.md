@@ -2,7 +2,7 @@
 title: A Nimble Introduction to Force.com
 id: 32
 categories:
-  - Tutorials
+  - Tutorial
 date: 2012-05-05 09:16:00
 tags: 
  - Salesforce

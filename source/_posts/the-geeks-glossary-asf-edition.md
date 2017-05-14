@@ -2,7 +2,7 @@
 title: The Geek's Glossary (ASF edition)
 id: 179
 categories:
-  - Essays
+  - Essay
 date: 2007-04-01 05:00:00
 tags:
  - Apache Struts

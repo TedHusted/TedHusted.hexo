@@ -2,7 +2,7 @@
 title: How much is open source worth?
 id: 189
 categories:
-  - Essays
+  - Essay
 date: 2007-03-22 05:00:00
 tags:
  - Open Source

@@ -2,7 +2,7 @@
 title: Can you spell FLEV?
 id: 175
 categories:
-  - Essays
+  - Essay
 date: 2007-04-05 05:00:00
 tags:
  - Programming

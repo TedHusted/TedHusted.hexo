@@ -2,7 +2,7 @@
 title: Roller 2.2 RC2 Available
 id: 222
 categories:
-  - Events
+  - Event
 date: 2006-04-02 05:00:00
 tags:
  - Apache Roller

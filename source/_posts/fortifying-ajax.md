@@ -2,7 +2,7 @@
 title: Fortifying Ajax
 id: 6
 categories:
- - Reviews
+ - Review
 date: 2007-04-10 08:00:05
 tags:
   - Ajax

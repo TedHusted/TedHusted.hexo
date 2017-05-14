@@ -2,7 +2,7 @@
 title: 'SportsForge: A Working Example'
 id: 213
 categories:
-  - Tutorials
+  - Tutorial
 date: 2006-09-16 05:00:00
 tags:
  - Apache Struts

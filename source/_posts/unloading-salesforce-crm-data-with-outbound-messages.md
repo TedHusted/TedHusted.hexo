@@ -2,7 +2,7 @@
 title: Unloading Salesforce CRM Data with Outbound Messages
 id: 41
 categories:
- - Tutorials
+ - Tutorial
 date: 2012-03-22 05:00:00
 tags:
  - Salesforce

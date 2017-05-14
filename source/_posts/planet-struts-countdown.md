@@ -2,7 +2,7 @@
 title: Planet Struts Countdown
 id: 226
 categories:
-  - Events
+  - Event
 date: 2006-02-26 06:03:00
 tags:
  - Apache Struts

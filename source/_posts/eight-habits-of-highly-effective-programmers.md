@@ -2,7 +2,7 @@
 title: Eight Habits of Highly Effective Programmers
 id: 147
 categories:
-  - Reviews
+  - Review
 date: 2007-08-01 05:00:00
 tags:
  - Productivity

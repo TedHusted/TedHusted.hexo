@@ -2,7 +2,7 @@
 title: The ASF Turns Fifty
 id: 150
 categories:
-  - Essays
+  - Essay
 date: 2007-07-26 05:00:00
 tags:
  - ASF

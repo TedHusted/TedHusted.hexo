@@ -2,7 +2,7 @@
 title: Free (as in beer) Microstuff
 id: 211
 categories:
-  - Reviews
+  - Review
 date: 2006-10-01 05:00:00
 tags:
  - Programming

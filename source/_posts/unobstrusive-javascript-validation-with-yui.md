@@ -2,7 +2,7 @@
 title: Unobstrusive Javascript Validation with YUI
 id: 7
 categories:
-  - Reviews
+  - Review
 date: 2007-04-11 08:00:53
 tags:
  - Programming

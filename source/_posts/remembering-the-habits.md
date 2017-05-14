@@ -2,7 +2,7 @@
 title: Remembering the Habits
 id: 61
 categories:
-  - Essays
+  - Essay
 date: 2011-05-01 05:00:00
 tags:
  - Productivity

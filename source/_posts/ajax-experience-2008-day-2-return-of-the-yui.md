@@ -2,7 +2,7 @@
 title: Ajax Experience 2008, Day 2, Return of the YUI
 id: 126
 categories:
-  - Events
+  - Event
 date: 2008-09-30 17:30:00
 tags: 
  - Ajax 

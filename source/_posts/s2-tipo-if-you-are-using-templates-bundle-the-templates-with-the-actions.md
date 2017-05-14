@@ -2,7 +2,7 @@
 title: 'S2 Tip - If you are using templates, bundle the templates with the Actions.'
 id: 11
 categories:
- - Tutorials
+ - Tutorial
 date: 2007-04-13 00:00:09
 tags:
   - Apache Struts

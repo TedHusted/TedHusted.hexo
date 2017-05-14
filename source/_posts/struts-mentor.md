@@ -2,7 +2,7 @@
 title: Struts Mentor
 id: 248
 categories:
-  - Events
+  - Event
 date: 2006-01-27 06:00:00
 tags:
  - Apache Struts

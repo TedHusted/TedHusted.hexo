@@ -2,7 +2,7 @@
 title: Cancel Klatch
 id: 243
 categories:
-  - Events
+  - Event
 date: 2006-01-27 06:06:00
 tags:
  - Apache Struts

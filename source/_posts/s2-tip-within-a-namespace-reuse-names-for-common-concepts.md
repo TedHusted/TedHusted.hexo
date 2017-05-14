@@ -2,7 +2,7 @@
 title: 'S2 Tip - Within a namespace, reuse names for common concepts'
 id: 174
 categories:
-  - Tutorials
+  - Tutorial
 date: 2007-04-06 05:00:00
 tags:
   - Apache Struts

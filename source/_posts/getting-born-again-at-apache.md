@@ -2,7 +2,7 @@
 title: 'Getting Born Again at Apache '
 id: 4
 categories:
-  - Essays
+  - Essay
 date: 2007-04-08 09:00:59
 tags:
  - Open Source

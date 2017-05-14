@@ -2,7 +2,7 @@
 title: ApacheCon US 2007 CFP Submissions
 id: 17
 categories:
-  - Events
+  - Event
 date: 2007-04-18 08:00:01
 tags: 
  - ASF

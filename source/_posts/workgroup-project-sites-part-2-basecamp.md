@@ -2,7 +2,7 @@
 title: Workgroup project sites - Part 2 - Basecamp
 id: 77
 categories:
-  - Reviews
+  - Review
 date: 2010-09-11 10:55:00
 tags:
  - Productivity

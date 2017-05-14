@@ -2,7 +2,7 @@
 title: Simulating Action
 id: 186
 categories:
-  - Reviews
+  - Review
 date: 2007-03-25 05:00:00
 tags:
  - Ajax

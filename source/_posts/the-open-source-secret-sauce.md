@@ -2,7 +2,7 @@
 title: The Open Source Secret Sauce
 id: 184
 categories:
-  - Essays
+  - Essay
 date: 2007-03-27 05:00:00
 tags:
  - Programming

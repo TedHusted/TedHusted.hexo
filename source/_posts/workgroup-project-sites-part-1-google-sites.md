@@ -2,7 +2,7 @@
 title: Workgroup project sites - Part 1 - Google Sites
 id: 79
 categories:
-  - Reviews
+  - Review
 date: 2010-09-09 10:55:00
 tags:
  - Productivity

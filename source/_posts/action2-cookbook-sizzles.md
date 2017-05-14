@@ -2,7 +2,7 @@
 title: Action2 Cookbook Sizzles
 id: 224
 categories:
-  - Reviews
+  - Review
 date: 2006-03-12 06:00:00
 tags: 
  - Apache Struts

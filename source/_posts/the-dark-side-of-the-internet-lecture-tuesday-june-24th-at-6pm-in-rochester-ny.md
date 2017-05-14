@@ -3,7 +3,7 @@ title: >-
   The Dark Side of the Internet Lecture, Tuesday, June 24th at 6PM in Rochester NY
 id: 135
 categories:
-  - Events
+  - Event
 date: 2008-06-19 05:00:00
 tags:
  - Rochester NY

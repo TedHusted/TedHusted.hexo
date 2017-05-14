@@ -2,7 +2,7 @@
 title: Requirewhats?
 id: 229
 categories:
-  - Essays
+  - Essay
 date: 2006-02-26 06:00:00
 tags:
  - Apache Struts

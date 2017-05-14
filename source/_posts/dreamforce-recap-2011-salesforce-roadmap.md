@@ -2,7 +2,7 @@
 title: Dreamforce Recap / 2011 Salesforce Roadmap
 id: 63
 categories:
-  - Events
+  - Event
 date: 2011-01-10 13:00:00
 tags:
  - Salesforce

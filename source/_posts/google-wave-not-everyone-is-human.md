@@ -2,7 +2,7 @@
 title: 'Google Wave: Not everyone is human ....'
 id: 92
 categories:
- - Reviews
+ - Review
 date: 2009-07-23 06:00:00
 tags:
   - Google Wave

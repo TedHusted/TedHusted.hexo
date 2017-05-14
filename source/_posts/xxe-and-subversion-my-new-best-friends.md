@@ -2,7 +2,7 @@
 title: XXE and Subversion - My New Best Friends
 id: 250
 categories:
-  - Reviews
+  - Review
 date: 2004-04-07 05:00:00
 tags:
  - Programming

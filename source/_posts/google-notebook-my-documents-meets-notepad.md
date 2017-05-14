@@ -2,7 +2,7 @@
 title: 'Google Notebook: My Documents meets Notepad'
 id: 115
 categories:
-  - Reviews
+  - Review
 date: 2008-11-10 06:00:00
 tags:
  - Productivity

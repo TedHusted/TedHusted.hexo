@@ -2,7 +2,7 @@
 title: 'Log Me, Log YUI'
 id: 177
 categories:
-  - Reviews
+  - Review
 date: 2007-04-03 05:00:00
 tags:
  - YUI
